@@ -1,4 +1,4 @@
-<div align="center">
+    <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -13,11 +13,11 @@
 
 ---
 
-## `whoami`
+## `WHO AM I`
 
 ```python
 class GiulianaArguelles:
-    location    = "Barcelona, ES 🇪🇸 | COL 🇨🇴 | IT 🇮🇹"
+    location    = "Barcelona, ES"
     education   = "Software Engineering @ Tecnocampus · Pompeu Fabra University"
     focus       = ["Cybersecurity", "PKI / x.509", "Network Monitoring", "Embedded Systems"]
     languages   = ["Python", "Java", "PowerShell", "C++", "JavaScript", "SQL"]
@@ -78,7 +78,7 @@ class GiulianaArguelles:
 🎓 Software Engineering — Tecnocampus · Pompeu Fabra University (2023–Present)
    Networks & Protocols · Systems Administration · Data Structures · Software Engineering
 
-🏛️ Architecture — Pontificia Universidad Javeriana, Bogotá (2020–2022)
+🏛️ Architecture — Pontificia Universidad Javeriana, Bogotá (2019–2022)
    Structural Systems · Project Planning · Urban Analysis
 ```
 
@@ -105,7 +105,7 @@ class GiulianaArguelles:
 ## `🌍 Languages`
 
 ```
-Spanish 🇪🇸  Native   |   English 🇬🇧  C1   |   French 🇫🇷  B2   |   Catalan 🏴󠁥󠁳󠁣󠁴󠁿  B2
+Spanish   Native   |   English   C1   |   French   B2   |   Catalan   B2
 ```
 
 ---
@@ -127,7 +127,7 @@ Spanish 🇪🇸  Native   |   English 🇬🇧  C1   |   French 🇫🇷  B2   
 <div align="center">
 
 [![Email](https://img.shields.io/badge/giulianaarguelles@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giulianaarguelles@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/garguellesl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garguellesl)
+[![LinkedIn](https://img.shields.io/badge/garguellesl-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giuliana-arguelles)
 [![GitHub](https://img.shields.io/badge/@garguellesl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garguellesl)
 
 *Based in Barcelona · Available for internships in Cybersecurity / R&D*
